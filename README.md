@@ -1,13 +1,26 @@
 ![Logo](https://as2.ftcdn.net/v2/jpg/04/46/93/93/1000_F_446939375_83iP0UYTg5F9vHl6icZwgrEBHXeXMVaU.jpg)
-<h1 align="center">Hi  Visitor👋<h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wijaya!;" />
+<h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/made-wijaya-594253280/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madewijaya072/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/dedukme/)
-[![Gmail Badge](https://img.shields.io/badge/EMAIL-FE7A16?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedukwijaya@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/GitHub_Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/DedukWijaya071)
-[![](https://visitcount.itsvg.in/api?id=ardhptr21&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+<div align="center"> 
+  <a href="mailto:dedukwijaya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/made-wijaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://www.twitter.com/dedukme" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://www.instagram.com/madewijaya072" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
 <h3 align="center">ABOUT ME:</h3>
 
