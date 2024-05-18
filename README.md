@@ -68,8 +68,7 @@ class About extends Me {
             <br>Git
         </td>
         <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
-                width="48" height="48" alt="GitHub" />
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
             <br>Github
         </td>
         <td align="center" width="96">
@@ -96,8 +95,8 @@ class About extends Me {
             <br>Linux
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="jquery" />
-            <br>Bash
+            <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="jquery" />
+            <br>Photoshop
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
