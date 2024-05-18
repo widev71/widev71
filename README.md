@@ -106,6 +106,14 @@ class About extends Me {
 </table>
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/widev71/widev71/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 <!--
 **widev71/widev71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
