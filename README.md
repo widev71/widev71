@@ -109,7 +109,7 @@ class About extends Me {
 <div align="center">
   <h1></h1>
   <h3 align="center">CONTRIBUTION:</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/widev71/widev71/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/widev71/widev71/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
