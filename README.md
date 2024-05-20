@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wijaya!;" />
 <h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widev71&theme=discord" alt="widev71" /></a> </p>
 
 <div align="center"> 
   <a href="mailto:dedukwijaya@gmail.com">
@@ -111,7 +112,26 @@ class About extends Me {
   <h3 align="center">CONTRIBUTION:</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/widev71/widev71/output/github-contribution-grid-snake-dark.svg" />
 
+  <h1></h1>
+
+<h3 align="center">STATISTIC</h3>
+
+<div align="center">
+<a href="https://github.com/widev71">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfankurniawansuthiono&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=widev71&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=widev71&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=widev71&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=widev71&theme=2077" height="180em" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
+
+</div>
+
+
+
 
 
 <!--
