@@ -40,7 +40,7 @@ class About extends Me {
   }
 
   function getFutureGoal(){
-    return "To become a programmer";
+    return "To become a programmer.";
   }
 }
 ```
