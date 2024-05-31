@@ -1,4 +1,4 @@
-![Logo](https://as2.ftcdn.net/v2/jpg/04/46/93/93/1000_F_446939375_83iP0UYTg5F9vHl6icZwgrEBHXeXMVaU.jpg)
+![Logo](https://i.pinimg.com/originals/73/21/12/73211224c4fe7a8d7af766f2d32ad2c3.jpg)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wijaya!;+Code+Changes+My+Word." />
 <h1>
