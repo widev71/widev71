@@ -35,7 +35,8 @@ class About extends Me {
   }
 
   function getDescriptions(){
-    return `Hi, my name is ${this.name}, currently I am a student at ${this.school}.
+    return `Hi, my name is ${this.name},
+    currently I am a student at ${this.school}.
     I really enjoy when writing code, because it's like playing a game`;
   }
 
