@@ -1,4 +1,4 @@
-![Logo](https://i.pinimg.com/originals/73/21/12/73211224c4fe7a8d7af766f2d32ad2c3.jpg)
+![Faruq Maulana's Card Name](https://cardivo.vercel.app/api?name=I%20Made%20Wijaya&description=Hi,%20I%27m%20a%20Web%20Developer%And%20UI/UX%20Designer%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/118777889?v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&pattern=floatingCogs&colorPattern=%23fe01ff&opacity=0.2&fontColor=%23eff4f6)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wijaya!;+Code+Changes+My+Word." />
 <h1>
