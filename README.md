@@ -1,4 +1,6 @@
-![Faruq Maulana's Card Name](https://cdna.artstation.com/p/assets/images/images/056/513/668/large/lofi-bug-sunset-meadow-lofi-hip-hop-mix.jpg?1669426038)
+<div align="center">
+  <img src="https://i.pinimg.com/736x/89/84/97/898497642da65da081fcfbcb0d400a25.jpg" />
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wijaya!;+Code+Changes+My+Word." />
 <h1>
