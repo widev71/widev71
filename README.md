@@ -24,6 +24,12 @@
   </a>
 </div>
 
+  <div align="center"> 
+    <a href="https://discord.com/users/882265698372558878"> 
+      <img src="https://lanyard.cnrad.dev/api/882265698372558878?borderRadius=20px&bg=00000000&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"> 
+    </a> 
+  </div> 
+
 <h3 align="center">ABOUT ME:</h3>
 
 ```javascript
@@ -117,6 +123,8 @@ class About extends Me {
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=widev71&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=widev71&theme=2077" height="180em" />
 </div>
+
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
