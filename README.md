@@ -1,5 +1,6 @@
 ![My card name](https://cardivo.vercel.app/api?name=Made%20Wijaya&description=Hi,%20i%27m%20a%20Frontend%20Engineer%20and%20i%27m%2016%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/user-attachments/assets/ca694c12-4364-42cf-97b4-a25453333a48&backgroundColor=%23ecf0f1&=leaf&colorPattern=%23eaeaea)
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wijaya!;+Code+Changes+My+Word." />
 <h1>
