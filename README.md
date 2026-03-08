@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wijaya!;+Code+Changes+My+Word." />
 <h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widev71&theme=discord" alt="widev71" /></a> </p>
 
 <div align="center"> 
   <a href="mailto:dedukwijaya@gmail.com">
