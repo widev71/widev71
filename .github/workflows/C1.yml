@@ -22,7 +22,7 @@ jobs:
       - name: Configure Git
         run: |
           git config user.name "ducky"  # Mengatur nama pengguna untuk commit
-          git config user.email "dedukwijaya@gmail.com"  # Mengatur email pengguna untuk commit
+          git config user.email "gkompor789@gmail.com"  # Mengatur email pengguna untuk commit
           git config user.signingkey F77FA5C7E92588A756B36E606FD5D53407B2C619  # Menambahkan GPG key ID
           git config commit.gpgsign true
 
