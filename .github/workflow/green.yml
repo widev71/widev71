@@ -48,8 +48,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "siegrin"
-          git config user.email "piubitt@gmail.com"
+          git config user.name "ducky"
+          git config user.email "dedukwijaya@gmail.com"
           git config user.signingkey F77FA5C7E92588A756B36E606FD5D53407B2C619
           git config commit.gpgsign true
 
