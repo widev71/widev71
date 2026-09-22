@@ -30,29 +30,6 @@
     </a> 
   </div> 
 
-<h3 align="center">ABOUT ME:</h3>
-
-```javascript
-class About extends Me {
-  constructor() {
-    this.myname = "I Made Wijaya";
-    this.pronouns = "Hes";
-    this.address = "Gianyar, Bali , Indonesia";
-    this.school = "SMK N 1 Tampaksiring";
-  }
-
-  function getDescriptions(){
-    return `Hi, my name is ${this.name},
-    currently I am a student at ${this.school}.
-    I really enjoy when writing code, because it's like playing a game`;
-  }
-
-  function getFutureGoal(){
-    return "To become a programmer.";
-  }
-}
-```
-
 
 <h1></h1>
 <h3 align="center"  text color="blue" >LANGUAGES AND TOOLS:</h3>
