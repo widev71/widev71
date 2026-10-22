@@ -86,11 +86,10 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg?v=1">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg?v=1">
 </picture>
-
 <div align="center">
   <h1></h1>
   <h3 align="center">MY CONTRIBUTION</h3>
