@@ -84,16 +84,14 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
-
+<div align="center">
+  <h1></h1>
+  <h3 align="center">MY CONTRIBUTION</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph-dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg?v=1">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg?v=1">
 </picture>
-<div align="center">
-  <h1></h1>
-  <h3 align="center">MY CONTRIBUTION</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/widev71/widev71/output/github-contribution-grid-snake-dark.svg" />
 
   <h1></h1>
 
