@@ -32,178 +32,64 @@
 
 
 <h3 align="center"  text color="blue" >LANGUAGES AND TOOLS:</h3>
+<!-- === 40 TECH & MINECRAFT SERVER BADGES (TANPA GARIS BAWAH) === -->
 <p align="center">
-  <!-- === MINECRAFT ECOSYSTEM & PLATFORMS === -->
-  <!-- 1. Modrinth -->
-  <a href="https://modrinth.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Modrinth-%231BD96A?style=for-the-badge&logo=modrinth&logoColor=black" alt="Modrinth"/>
-  </a>
-  <!-- 2. Minecraft Server -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Minecraft_Server-%2362B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Server"/>
-  </a>
-  <!-- 3. Pterodactyl Panel -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Pterodactyl-%230E4688?style=for-the-badge&logo=pterodactyl&logoColor=white" alt="Pterodactyl"/>
-  </a>
-  <!-- 4. CurseForge -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CurseForge-%23F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge"/>
-  </a>
-  <!-- 5. PaperMC -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/PaperMC-%232B3137?style=for-the-badge&logo=java&logoColor=white" alt="PaperMC"/>
-  </a>
-  <!-- 6. Purpur -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Purpur-%238A2BE2?style=for-the-badge&logo=java&logoColor=white" alt="Purpur"/>
-  </a>
-  <!-- 7. SpigotMC -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/SpigotMC-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SpigotMC"/>
-  </a>
-  <!-- 8. Velocity Proxy -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Velocity_Proxy-%230EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Velocity"/>
-  </a>
-  <!-- 9. BungeeCord -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/BungeeCord-%23D4AF37?style=for-the-badge&logo=java&logoColor=black" alt="BungeeCord"/>
-  </a>
-  <!-- 10. GeyserMC -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GeyserMC-%2300ACC1?style=for-the-badge&logo=minecraft&logoColor=white" alt="GeyserMC"/>
-  </a>
-  <!-- 11. Floodgate -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Floodgate-%230288D1?style=for-the-badge&logo=minecraft&logoColor=white" alt="Floodgate"/>
-  </a>
-  <!-- 12. Fabric -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Fabric-%23DBD0B4?style=for-the-badge&logo=minecraft&logoColor=black" alt="Fabric"/>
-  </a>
-  <!-- 13. Forge -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Forge-%231E2D3D?style=for-the-badge&logo=minecraft&logoColor=white" alt="Forge"/>
-  </a>
+  <!-- Minecraft Ecosystem & Platforms -->
+  <a href="https://modrinth.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Modrinth-%231BD96A?style=for-the-badge&logo=modrinth&logoColor=black" alt="Modrinth"/></a>
+  <img src="https://img.shields.io/badge/Minecraft_Server-%2362B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Server"/>
+  <img src="https://img.shields.io/badge/Pterodactyl-%230E4688?style=for-the-badge&logo=pterodactyl&logoColor=white" alt="Pterodactyl"/>
+  <img src="https://img.shields.io/badge/CurseForge-%23F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="CurseForge"/>
+  <img src="https://img.shields.io/badge/PaperMC-%232B3137?style=for-the-badge&logo=openjdk&logoColor=white" alt="PaperMC"/>
+  <img src="https://img.shields.io/badge/Purpur-%238A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" alt="Purpur"/>
+  <img src="https://img.shields.io/badge/SpigotMC-%23ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SpigotMC"/>
+  <img src="https://img.shields.io/badge/Velocity_Proxy-%230EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Velocity"/>
+  <img src="https://img.shields.io/badge/BungeeCord-%23D4AF37?style=for-the-badge&logo=openjdk&logoColor=black" alt="BungeeCord"/>
+  <img src="https://img.shields.io/badge/GeyserMC-%2300ACC1?style=for-the-badge&logo=minecraft&logoColor=white" alt="GeyserMC"/>
+  <img src="https://img.shields.io/badge/Floodgate-%230288D1?style=for-the-badge&logo=minecraft&logoColor=white" alt="Floodgate"/>
+  <img src="https://img.shields.io/badge/Fabric-%23DBD0B4?style=for-the-badge&logo=minecraft&logoColor=black" alt="Fabric"/>
+  <img src="https://img.shields.io/badge/Forge-%231E2D3D?style=for-the-badge&logo=minecraft&logoColor=white" alt="Forge"/>
 
-  <!-- === VPS, SYSADMIN & INFRASTRUCTURE === -->
-  <!-- 14. VPS Management -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/VPS_Admin-%230080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="VPS Admin"/>
-  </a>
-  <!-- 15. Linux -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <!-- 16. Ubuntu -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  </a>
-  <!-- 17. Debian -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  </a>
-  <!-- 18. Arch Linux -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
-  </a>
-  <!-- 19. Docker -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <!-- 20. Nginx -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  </a>
-  <!-- 21. Cloudflare -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Cloudflare-%23F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  </a>
-  <!-- 22. PM2 -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/PM2-%232B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2"/>
-  </a>
-  <!-- 23. Bash / Shell -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Bash_SSH-%23121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  </a>
+  <!-- VPS, SysAdmin & Infrastructure -->
+  <img src="https://img.shields.io/badge/VPS_Admin-%230080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="VPS Admin"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Cloudflare-%23F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/PM2-%232B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2"/>
+  <img src="https://img.shields.io/badge/Bash_SSH-%23121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 
-  <!-- === LANGUAGES & BUILD TOOLS === -->
-  <!-- 24. Java -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <!-- 25. JavaScript -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <!-- 26. TypeScript -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <!-- 27. Node.js -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <!-- 28. Gradle -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-  </a>
-  <!-- 29. Apache Maven -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Apache_Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  </a>
+  <!-- Languages & Build Tools -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+  <img src="https://img.shields.io/badge/Apache_Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
 
-  <!-- === DATABASES (SERVER & WEB) === -->
-  <!-- 30. MySQL -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <!-- 31. MariaDB -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
-  </a>
-  <!-- 32. PostgreSQL -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <!-- 33. SQLite -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  </a>
-  <!-- 34. Redis -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  </a>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
-  <!-- === WEB, BOT & DEV TOOLS === -->
-  <!-- 35. React -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <!-- 36. Next.js -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  </a>
-  <!-- 37. Discord.js -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Discord.js-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
-  </a>
-  <!-- 38. Git -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <!-- 39. GitHub Actions -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  </a>
-  <!-- 40. IntelliJ IDEA -->
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  </a>
+  <!-- Web, Bot & Dev Tools -->
+  <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Discord.js-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/widev71/widev71/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <h1></h1>
